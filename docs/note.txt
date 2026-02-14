@@ -1,0 +1,2 @@
+sort and record.
+wave pattern generate and match. then hufmen
